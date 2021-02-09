@@ -1,4 +1,4 @@
-a/* Name: main.c
+/* Name: main.c
  * Project: Testing driver features
  * Author: Christian Starkjohann
  * Creation Date: 2008-04-29
